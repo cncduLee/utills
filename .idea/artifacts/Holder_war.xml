@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Holder:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ccmis.wangyin.com.war">
+      <element id="artifact" artifact-name="Holder:war exploded" />
+    </root>
+  </artifact>
+</component>
